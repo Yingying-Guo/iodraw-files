@@ -22,6 +22,9 @@
         <mxCell id="DGHvHrtcgL_mv99EzDjn-10" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;维修部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DGHvHrtcgL_mv99EzDjn-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;维修部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
